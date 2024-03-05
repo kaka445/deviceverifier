@@ -1,0 +1,17 @@
+{
+  "name": "deviceverifier",
+  "version": "1.0.1",
+  "description": "Authenticates and verifies IoT device actions using blockchain technology, enhanced with secure communication.",
+  "main": "main.js",
+  "dependencies": {
+    "web3things": "^1.0.0",
+    "ethers": "^5.4.0",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "author": "kaka445",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaka445/deviceverifier.git"
+  }
+}
